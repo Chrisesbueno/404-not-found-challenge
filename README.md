@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://https://chrisesbueno.github.io/404-not-found-challenge/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://https://github.com/Chrisesbueno/404-not-found-challenge">
       Solution
     </a>
     <span> | </span>
@@ -34,14 +34,20 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](https://raw.githubusercontent.com/Chrisesbueno/404-not-found-challenge/main/DesktopVersion.png)
+
+![screenshot](https://raw.githubusercontent.com/Chrisesbueno/404-not-found-challenge/main/MobileVersion.png)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
 - Where can I see your demo?
+    <a href="https://https://chrisesbueno.github.io/404-not-found-challenge/">
+      Demo
+    </a>
 - What was your experience?
+  <h2> Some difficulties but not very hard </h2>
 - What have you learned/improved?
-- Your wisdom? :)
+  <h2> To solve more problems faster </h2>
 
 ## Features
 
