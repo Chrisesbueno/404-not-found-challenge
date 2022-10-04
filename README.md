@@ -3,20 +3,20 @@
 <h1 align="center">404 Not Found Challenge</h1>
 
 <div align="center">
-   Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
+   Solution for a challenge from  <a href="http://devchallenges.io">Devchallenges.io</a>.
 </div>
 
 <div align="center">
   <h3>
-    <a href="https://chrisesbueno.github.io/404-not-found-challenge/" target="_blank">
+    <a href="https://chrisesbueno.github.io/404-not-found-challenge/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/Chrisesbueno/404-not-found-challenge" target="_blank">
+    <a href="https://github.com/Chrisesbueno/404-not-found-challenge">
       Solution
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY" target="_blank">
+    <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
       Challenge
     </a>
   </h3>
@@ -39,7 +39,7 @@
 ![screenshot](https://raw.githubusercontent.com/Chrisesbueno/404-not-found-challenge/main/MobileVersion.png)
 
 - Where can I see your demo?
-    <h3><a href="https://chrisesbueno.github.io/404-not-found-challenge/" target="_blank"> Demo </a><h3>
+    <h3><a href="https://chrisesbueno.github.io/404-not-found-challenge/"> Demo </a><h3>
 - What was your experience?
   <h3> Some difficulties but not very hard </h3>
 - What have you learned/improved?
