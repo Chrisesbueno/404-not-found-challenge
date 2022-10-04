@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{404 Not Found Challenge}</h1>
+<h1 align="center">404 Not Found Challenge</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -27,10 +27,8 @@
 ## Table of Contents
 
 - [Overview](#overview)
-  - [Built With](#built-with)
 - [Features](#features)
 - [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
 
 <!-- OVERVIEW -->
 
@@ -53,5 +51,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [@chrisesbueno](https://{github.com/chrisesbueno})
-- Twitter [@chrisesbueno](https://{twitter.com/chrisesbueno})
+- GitHub [@chrisesbueno](https://github.com/chrisesbueno)
+- Twitter [@chrisesbueno](https://twitter.com/chrisesbueno)
