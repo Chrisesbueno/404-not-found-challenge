@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/Chrisesbueno/404-not-found-challenge">
+    <a href="https://devchallenges.io/solutions/qrg0IrnKXdGkE3FnBhkJ">
       Solution
     </a>
     <span> | </span>
