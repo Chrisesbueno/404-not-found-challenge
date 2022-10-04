@@ -8,15 +8,15 @@
 
 <div align="center">
   <h3>
-    <a href="https://chrisesbueno.github.io/404-not-found-challenge/">
+    <a href="https://chrisesbueno.github.io/404-not-found-challenge/" target="_blank">
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/Chrisesbueno/404-not-found-challenge">
+    <a href="https://github.com/Chrisesbueno/404-not-found-challenge" target="_blank">
       Solution
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
+    <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY" target="_blank">
       Challenge
     </a>
   </h3>
@@ -39,13 +39,11 @@
 ![screenshot](https://raw.githubusercontent.com/Chrisesbueno/404-not-found-challenge/main/MobileVersion.png)
 
 - Where can I see your demo?
-    <h2><a href="https://chrisesbueno.github.io/404-not-found-challenge/">
-      Demo
-    </a><h2>
+    <h3><a href="https://chrisesbueno.github.io/404-not-found-challenge/" target="_blank"> Demo </a><h3>
 - What was your experience?
-  <h2> Some difficulties but not very hard </h2>
+  <h3> Some difficulties but not very hard </h3>
 - What have you learned/improved?
-  <h2> To solve more problems faster </h2>
+  <h3> To solve more problems faster </h3>
 
 ## Features
 
