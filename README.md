@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://https://chrisesbueno.github.io/404-not-found-challenge/">
+    <a href="https://chrisesbueno.github.io/404-not-found-challenge/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://https://github.com/Chrisesbueno/404-not-found-challenge">
+    <a href="https://github.com/Chrisesbueno/404-not-found-challenge">
       Solution
     </a>
     <span> | </span>
@@ -38,12 +38,10 @@
 
 ![screenshot](https://raw.githubusercontent.com/Chrisesbueno/404-not-found-challenge/main/MobileVersion.png)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
-
 - Where can I see your demo?
-    <a href="https://https://chrisesbueno.github.io/404-not-found-challenge/">
+    <h2><a href="https://chrisesbueno.github.io/404-not-found-challenge/">
       Demo
-    </a>
+    </a><h2>
 - What was your experience?
   <h2> Some difficulties but not very hard </h2>
 - What have you learned/improved?
